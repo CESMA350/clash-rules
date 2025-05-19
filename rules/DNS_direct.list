@@ -1,0 +1,23 @@
+# clash的直连DNS匹配
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,关键字
+# DOMAIN-KEYWORD,dns
+# 阿里云
+DOMAIN-KEYWORD,223.5.5.5
+DOMAIN-KEYWORD,223.6.6.6
+DOMAIN-KEYWORD,alidns
+# dnspod
+DOMAIN-KEYWORD,doh.pub
+DOMAIN-KEYWORD,1.12.12.12
+DOMAIN-KEYWORD,120.53.53.53
+# 360
+DOMAIN-KEYWORD,doh.360.cn
+# adap
+DOMAIN-KEYWORD,apad
+
+# 域名后缀匹配
+# DOMAIN-SUFFIX,后缀
+DOMAIN-SUFFIX,apad.pro/dns-query
+
+# End

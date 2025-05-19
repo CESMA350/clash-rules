@@ -1,0 +1,14 @@
+# clash的代理DNS匹配
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,关键字
+# Google
+DOMAIN-KEYWORD,8.8.8.8
+DOMAIN-KEYWORD,8.8.4.4
+DOMAIN-KEYWORD,dns.google
+# Cloudflare
+DOMAIN-KEYWORD,1.1.1.1
+DOMAIN-KEYWORD,1.0.0.1
+DOMAIN-KEYWORD,cloudflare-dns
+
+# End
